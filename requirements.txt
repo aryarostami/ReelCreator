@@ -1,0 +1,21 @@
+# Media Processing
+moviepy>=1.0.3
+opencv-python>=4.8.0
+Pillow>=10.0.0
+pydub>=0.25.1
+
+# AI & APIs
+openai>=1.0.0
+google-generativeai>=0.3.0
+edge-tts>=6.1.9
+whisper-timestamped>=1.14.0
+
+# Config & Utilities
+pydantic>=2.0.0
+pyyaml>=6.0.1
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+loguru>=0.7.2
+
+# Testing
+pytest>=7.4.0

@@ -1,0 +1,14 @@
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  duration_limit: 60
+
+tts:
+  voice: "en-US-ChristopherNeural"
+  rate: "+0%"
+
+paths:
+  output: "output"
+  temp: "temp"
+  fonts: "assets/fonts"

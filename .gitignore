@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+temp/
+output/
+assets/raw_videos/*
+!assets/raw_videos/.gitkeep
+assets/audio/*
+!assets/audio/.gitkeep
